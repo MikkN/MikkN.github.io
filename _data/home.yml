@@ -1,10 +1,10 @@
 intro:
-  lead-in: "Welcome To Our Studio!"
-  heading: It's Nice To Meet You
-  btn: Tell Me More
+  lead-in: "Welcome To My Portfolio"
+  heading: -Niklas Mikkelsen
+  btn: View my expertise
 
 services:
-  heading: Services
+  heading: My Expertise
   subheading: Lorem ipsum dolor sit amet consectetur.
   service:
     - icon: fa fa-shopping-cart

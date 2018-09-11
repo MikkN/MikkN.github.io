@@ -1,9 +1,9 @@
 brand:
-  name: Start Bootstrap
+  name: Niklas Mikkelsen Portfolio
 menu-string: Menu
 
 nav:
-  - title: Services
+  - title: Expertise
     url: '#services'
   - title: Portfolio
     url: '#portfolio'
@@ -14,15 +14,15 @@ nav:
   - title: Contact
     url: '#contact'
 
-copyright: Copyright &copy; Your Website 2018
+copyright: Copyright Niklas Mikkelsen 2018
 
 social-buttons:
   - icon: fa fa-twitter
-    url: '#' 
+    url: 'https://twitter.com/NikMikk' 
   - icon: fa fa-facebook
-    url: '#'
+    url: 'niklas.mikkelsen.1'
   - icon: fa fa-linkedin
-    url: '#'
+    url: 'https://www.linkedin.com/in/mikkn/'
 
 quicklinks:
   - title: Privacy Policy
