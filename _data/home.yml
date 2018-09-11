@@ -1,6 +1,6 @@
 intro:
   lead-in: "Welcome To My Portfolio"
-  heading: Niklas Mikkelsen
+  heading: -Niklas Mikkelsen
   btn: View my expertise
 
 services:
@@ -27,24 +27,20 @@ about:
   timeline:
     - image: img/about/BTH.jpg
       date: 2009-2011
-      title: My Humble Gamedev Beginnings 
-      text: Ahh, feels like yesterday I began my journey at BTH. No knowledge on game development or anything really, just the mindset of trying my best. I went from 3D modelling to coding, and that's what I'm doing today!
-
-    - image: img/about/gkg_silhouette.png
-      date: October 2016
-      title: An Studio was Born
-      text: "*Insert cool text here"
-
+      title: Our Humble Beginnings
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+    - image: img/about/2.jpg
+      date: March 2011
+      title: An Agency is Born
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
     - image: img/about/3.jpg
       date: December 2012
       title: Transition to Full Service
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
--
     - image: img/about/4.jpg
       date: July 2014
       title: Phase Two Expansion
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
-
     - image: img/about/4.jpg
       date: July 2014
       title: Phase Two Expansion
