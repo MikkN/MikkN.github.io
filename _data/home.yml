@@ -1,20 +1,3 @@
-team:
-  heading: This is me
-  subheading: So handsome,
-  members:
-    - name: Niklas Mikkelsen
-      role: It's a me
-      img: img/profile_pic.jpg
-      social-buttons:
-        - icon: fa fa-twitter
-          url: "https://www.twitter.com/NikMikk" 
-        - icon: fa fa-facebook
-          url: "https://www.facebook.com/niklas.mikkelsen.1"
-        - icon: fa fa-linkedin
-          url: "https://www.linkedin.com/in/mikkn/"
-
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
-
 intro:
   lead-in: 'Welcome you handsome fellah!'
   heading: 'This is me'
@@ -38,26 +21,49 @@ portfolio:
   subheading: Earlier projects I've been involved in.
 
 about:
-  heading: About
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  heading: My jouyney
+  subheading: Quite strange actually.
   timeline:
     - image: img/about/BTH.jpg
       date: 2009-2011
-      title: My Humble Gamedev Beginnings 
-      text: Ahh, feels like yesterday I began my journey at BTH. No knowledge on game development or anything really, just the mindset of trying my best. I went from 3D modelling to coding, and that's what I'm doing today!
+      title: My Gamedev Beginnings 
+      text: Feels like yesterday I began my journey at BTH. No knowledge on game development or anything really, just the mindset of trying my best. I went from 3D modelling to coding, and that's what I'm doing today!
+   
     - image: img/about/gkg_silhouette.png
       date: October 2016
-      title: Good Knight Games was Born
-      text: "Insert cool text here"
+      title: First company founded
+      text: Good Knight Games was born
+   
+    - image: img/about/greenreality.png
+      date: April – August 2017
+      title: Green Reality VR Project
+      text: A VR game collaboration with Live Green Festival!
+
 
   end1: Be Part
   end2: Of Our
   end3: Story!
 
+team:
+  heading: This is me
+  subheading: So handsome,
+  members:
+    - name: Niklas Mikkelsen
+      role: It's a me
+      img: img/profile_pic.jpg
+      social-buttons:
+        - icon: fa fa-twitter
+          url: "https://www.twitter.com/NikMikk" 
+        - icon: fa fa-facebook
+          url: "https://www.facebook.com/niklas.mikkelsen.1"
+        - icon: fa fa-linkedin
+          url: "https://www.linkedin.com/in/mikkn/"
 
-#clients:
-#  - img: img/portfolio/fabriken_thumbnail.png
-#      url: "www.facebook.com/FabrikenGames"
+  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
+
+clients:
+      img: img/portfolio/fabriken_thumbnail.png
+      url: "www.facebook.com/FabrikenGames"
 
 contact:
   heading: Send me a email!

@@ -3,3 +3,9 @@ description: "Portfolio"
 author: "Niklas Mikkelsen"
 
 theme: jekyll-theme-startbootstrap-agency
+
+sass:
+  style: compressed
+
+collections:
+  projects:
