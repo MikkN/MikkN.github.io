@@ -3,14 +3,10 @@ brand:
 menu-string: Menu
 
 nav:
-  - title: Expertise
-    url: '#services'
-  - title: Portfolio
+  - title: Involvement
     url: '#portfolio'
   - title: About
     url: '#about'
-  - title: Team
-    url: '#team'
   - title: Contact
     url: '#contact'
 

@@ -1,23 +1,6 @@
-team:
-  heading: This is me
-  subheading: ""
-  members:
-    - name: Niklas Mikkelsen
-      role: It's a me
-      img: img/profile_pic.jpg
-      social-buttons:
-        - icon: fa fa-twitter
-          url: "https://www.twitter.com/NikMikk" 
-        - icon: fa fa-facebook
-          url: "https://www.facebook.com/niklas.mikkelsen.1"
-        - icon: fa fa-linkedin
-          url: "https://www.linkedin.com/in/mikkn/"
-
-  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
-
 intro:
-  lead-in: 'Welcome you handsome fellah!'
-  heading: 'This is me'
+  lead-in: Welcome you handsome fellah!
+  heading: This is me
 
 services:
   heading: My Expertise
@@ -34,15 +17,15 @@ services:
       text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
 
 portfolio:
-  heading: Portfolio
-  subheading: Earlier projects I've been involved in.
+  heading: My involvements
+  subheading: 
 
 about:
   heading: My jouyney
   subheading: Quite strange actually.
   timeline:
     - image: img/about/BTH.jpg
-      date: 2009-2011
+      date: 2015-2018
       title: My Gamedev Beginnings 
       text: Feels like yesterday I began my journey at BTH. No knowledge on game development or anything really, just the mindset of trying my best. I went from 3D modelling to coding, and that's what I'm doing today!
    
