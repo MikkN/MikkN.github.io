@@ -5,7 +5,7 @@ menu-string: Menu
 nav:
   - title: Involvement
     url: '#portfolio'
-  - title: About
+  - title: My Journey
     url: '#about'
   - title: Contact
     url: '#contact'
