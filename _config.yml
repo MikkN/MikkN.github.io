@@ -2,10 +2,4 @@ title:  "Niklas Mikkelsen"
 description: "Portfolio"
 author: "Niklas Mikkelsen"
 
-sass:
-  style: compressed
-
-assets_path: '' 
-
-collections:
-  projects:
+theme: jekyll-theme-startbootstrap-agency

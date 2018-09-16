@@ -2,8 +2,8 @@ team:
   heading: This is me
   subheading: So handsome,
   members:
-    - name: Kay Garland
-      role: Lead Designer
+    - name: Niklas Mikkelsen
+      role: It's a me
       img: img/profile_pic.jpg
       social-buttons:
         - icon: fa fa-twitter
@@ -16,8 +16,8 @@ team:
   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
 
 intro:
-  lead-in: ''
-  heading: ''
+  lead-in: 'Welcome you handsome fellah!'
+  heading: 'This is me'
 
 services:
   heading: My Expertise
@@ -35,7 +35,7 @@ services:
 
 portfolio:
   heading: Portfolio
-  subheading: Lorem ipsum dolor sit amet consectetur.
+  subheading: Earlier projects I've been involved in.
 
 about:
   heading: About
@@ -55,8 +55,6 @@ about:
   end3: Story!
 
 
-
-#Not needed on my website
 #clients:
 #  - img: img/portfolio/fabriken_thumbnail.png
 #      url: "www.facebook.com/FabrikenGames"
