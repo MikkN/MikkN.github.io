@@ -1,3 +1,20 @@
+team:
+  heading: This is me
+  subheading: ""
+  members:
+    - name: Niklas Mikkelsen
+      role: It's a me
+      img: img/profile_pic.jpg
+      social-buttons:
+        - icon: fa fa-twitter
+          url: "https://www.twitter.com/NikMikk" 
+        - icon: fa fa-facebook
+          url: "https://www.facebook.com/niklas.mikkelsen.1"
+        - icon: fa fa-linkedin
+          url: "https://www.linkedin.com/in/mikkn/"
+
+  text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
+
 intro:
   lead-in: 'Welcome you handsome fellah!'
   heading: 'This is me'
