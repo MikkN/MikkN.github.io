@@ -5,10 +5,10 @@ menu-string: Menu
 nav:
   - title: Involvement
     url: '#portfolio'
-  - title: My Journey
-    url: '#about'
-  - title: Contact
-    url: '#contact'
+  # - title: My Journey
+  #   url: '#about'
+  # - title: Contact
+  #   url: '#contact'
 
 copyright: Copyright Niklas Mikkelsen 2018
 
